@@ -1,0 +1,18 @@
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    color: #007bff;
+    font-size: 24px;
+}
+
+p {
+    color: #9601cc;
+    font-size: 16px;
+}
+
+a {
+    color: #ff9900;
+    text-decoration: none;
+}
